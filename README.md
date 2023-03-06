@@ -1,4 +1,4 @@
-# parallax-scroll-animation
+# Parallax-Scroll-Animation
 
 # Static Website
 Download this Project and open with Live Server
